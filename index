@@ -1,5 +1,5 @@
 echo "<h1>Hello World</h1>" > index.html
 
 git add index.html
-git commit -m "minecraft-username"
+git commit -m "minecraft username utama.html"
 git push
